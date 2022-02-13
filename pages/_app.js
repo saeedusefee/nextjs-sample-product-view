@@ -4,7 +4,6 @@ import Head from 'next/head';
 import { wrapper } from '../redux/store/index';
 import AppWrapper from '../@behtarino/components/AppWrapper';
 import 'react-perfect-scrollbar/dist/css/styles.css';
-import 'react-big-calendar/lib/css/react-big-calendar.css';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import 'react-draft-wysiwyg/dist/react-draft-wysiwyg.css';
